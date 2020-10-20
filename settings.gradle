@@ -1,0 +1,3 @@
+rootProject.name = "KeelimTV"
+include ':mobile'
+include ':tv'
